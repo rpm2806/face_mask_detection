@@ -42,7 +42,7 @@ The notebook includes a cell to install ```kaggle``` if it is not already presen
 ## How to Use
 1. Clone the repository to your local machine:
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/rpm2806/face_mask_detection](https://github.com/rpm2806/face_mask_detection)
 
 2. Download your Kaggle API key. Go to your Kaggle account settings and click "Create New API Token." This will download a file named ```kaggle.json```.
 
